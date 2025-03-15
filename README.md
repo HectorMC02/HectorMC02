@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  Actualmente formo parte del equipo de Medlinetec, una empresa revolucionaria en el desarrollo técno-médico.<br>🤓  Profesional apasionado de la tecnología con especialización en administración de sistemas.<br>🆘  Busco seguir aprendiendo, expandiendo mis habilidades y explorando las fronteras en el mundo técnico. <br>📈  Aspiro a seguir avanzando en mi carrera profesional, aportando soluciones mediante las tecnologías.
+🔭  Actualmente formo parte del equipo de Medical Online Technology S.L., una empresa revolucionaria en el desarrollo técno-médico.<br>🤓  Profesional apasionado de la tecnología con especialización en administración de sistemas.<br>🆘  Busco seguir aprendiendo, expandiendo mis habilidades y explorando las fronteras en el mundo técnico. <br>📈  Aspiro a seguir avanzando en mi carrera profesional, aportando soluciones mediante las tecnologías.
 
 
 ## 🌐 Socials:
